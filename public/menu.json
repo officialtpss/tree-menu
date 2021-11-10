@@ -1,0 +1,109 @@
+[
+    {
+        "title": "C:/",
+        "path": "C:/",
+        "type": "folder",
+        "nodes": [
+            {
+                "title": "home",
+                "path": "C:/home",
+                "type": "folder",
+                "nodes": [
+                    {
+                        "title": "desktop",
+                        "path": "C:/home/desktop",
+                        "type": "folder",
+                        "nodes": [
+                            {
+                                "title": "abc.txt",
+                                "path": "C:/home/desktop/abc.txt",
+                                "type": "file"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "users",
+                        "path": "C:/home/users",
+                        "type": "folder",
+                        "nodes": [
+                            {
+                                "title": "krishan",
+                                "path": "C:/home/krishan",
+                                "type": "folder",
+                                "nodes": []
+                            },
+                            {
+                                "title": "rahul",
+                                "path": "C:/home/rahul",
+                                "nodes": []
+                            },
+                            {
+                                "title": "tpss",
+                                "path": "C:/home/tpss",
+                                "type": "folder",
+                                "nodes": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "config",
+                "path": "C:/config",
+                "type": "folder",
+                "nodes": []
+            }
+        ]
+    },
+    {
+        "title": "D:/",
+        "path": "D:/",
+        "nodes": [
+            {
+                "title": "/krishan",
+                "path": "D:/krishan",
+                "type": "folder",
+                "nodes": [
+                    {
+                        "title": "java",
+                        "path": "D:/krishan/java",
+                        "type": "folder",
+                        "nodes": []
+                    },
+                    {
+                        "title": "react",
+                        "path": "D:/krishan/react",
+                        "type": "folder",
+                        "nodes": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "E:/",
+        "path": "E:/",
+        "type": "folder",
+        "nodes": [
+            {
+                "title": "/krishan",
+                "path": "E:/krishan",
+                "type": "folder",
+                "nodes": [
+                    {
+                        "title": "java",
+                        "path": "E:/krishan/java",
+                        "type": "folder",
+                        "nodes": []
+                    },
+                    {
+                        "title": "react",
+                        "path": "E:/krishan/react",
+                        "type": "folder",
+                        "nodes": []
+                    }
+                ]
+            }
+        ]
+    }
+]
